@@ -15,4 +15,4 @@
     @apply transform -translate-y-0.5;
 }
 
-@reference "./index.css";
+@reference "../index.css";
